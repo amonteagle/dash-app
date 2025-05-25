@@ -1,0 +1,9 @@
+services:
+  dashapp:
+    build: .
+    image: dash-hcp:latest
+    container_name: dash-hcp
+    ports:
+      - "8050:8050"
+    environment:
+      - DASH_ENV=production

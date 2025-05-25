@@ -1,0 +1,421 @@
+ClientId,ClientType,State,Area,HCPLevel,FundingType
+2,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+4,HCP 2,VIC,North Melbourne,2,Home Care Package
+5,HCP 4,VIC,West,4,Home Care Package
+19,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+32,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+33,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+44,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+49,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+51,HCP 3,VIC,South East Melbourne,3,Home Care Package
+59,HCP 2,VIC,North Melbourne,2,Home Care Package
+64,HCP 4,VIC,West,4,Home Care Package
+66,HCP 4,VIC,North Melbourne,4,Home Care Package
+67,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+75,HCP 2,VIC,North Melbourne,2,Home Care Package
+80,HCP 2,VIC,South East Melbourne,2,Home Care Package
+81,HCP 2,VIC,South East Melbourne,2,Home Care Package
+86,HCP 1,VIC,Eastern Melbourne,1,Home Care Package
+88,HCP 3,VIC,North Melbourne,3,Home Care Package
+90,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+91,HCP 3,VIC,West,3,Home Care Package
+93,HCP 2,VIC,North Melbourne,2,Home Care Package
+94,HCP 4,Vic,North East,4,Home Care Package
+98,HCP 2,Vic,North Melbourne,2,Home Care Package
+99,HCP 2,Vic,West,2,Home Care Package
+106,HCP 2,VIC,Bayside,2,Home Care Package
+112,HCP 2,VIC,South East Melbourne,2,Home Care Package
+114,HCP 2,VIC,North Melbourne,2,Home Care Package
+115,HCP 2,VIC,North Melbourne,2,Home Care Package
+116,HCP 2,VIC,South East Melbourne,2,Home Care Package
+117,HCP 4,VIC,Bayside,4,Home Care Package
+118,HCP 3,VIC,North Melbourne,3,Home Care Package
+122,HCP 3,VIC,North Melbourne,3,Home Care Package
+123,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+124,HCP 3,VIC,North Melbourne,3,Home Care Package
+125,HCP 2,VIC,South East Melbourne,2,Home Care Package
+126,HCP 4,VIC,Bayside,4,Home Care Package
+129,HCP 3,VIC,North Melbourne,3,Home Care Package
+134,HCP 2,VIC,North Melbourne,2,Home Care Package
+136,HCP 2,VIC,South East Melbourne,2,Home Care Package
+138,HCP 2,VIC,South East Melbourne,2,Home Care Package
+142,HCP 3,VIC,South East Melbourne,3,Home Care Package
+143,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+145,HCP 2,VIC,South East Melbourne,2,Home Care Package
+146,HCP 2,VIC,North Melbourne,2,Home Care Package
+152,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+155,HCP 2,VIC,South East Melbourne,2,Home Care Package
+158,HCP 1,VIC,South East Melbourne,1,Home Care Package
+159,HCP 2,VIC,South East Melbourne,2,Home Care Package
+161,HCP 2,VIC,South East Melbourne,2,Home Care Package
+162,HCP 2,VIC,South East Melbourne,2,Home Care Package
+166,HCP 2,VIC,North Melbourne,2,Home Care Package
+171,HCP 4,VIC,Mornington Peninsula,4,Home Care Package
+175,HCP 2,VIC,Bayside,2,Home Care Package
+177,HCP 4,VIC,South East Melbourne,4,Home Care Package
+178,HCP 3,VIC,Bayside,3,Home Care Package
+179,HCP 3,VIC,South East Melbourne,3,Home Care Package
+181,HCP 2,Vic,West,2,Home Care Package
+186,HCP 4,VIC,West,4,Home Care Package
+187,HCP 2,VIC,West,2,Home Care Package
+189,HCP 2,VIC,North Melbourne,2,Home Care Package
+192,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+195,HCP 3,VIC,South East Melbourne,3,Home Care Package
+197,HCP 3,VIC,South East Melbourne,3,Home Care Package
+198,HCP 2,VIC,West,2,Home Care Package
+199,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+201,HCP 3,VIC,North Melbourne,3,Home Care Package
+202,HCP 3,VIC,North Melbourne,3,Home Care Package
+207,HCP 3,VIC,North Melbourne,3,Home Care Package
+208,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+213,HCP 4,VIC,North Melbourne,4,Home Care Package
+214,HCP 1,VIC,North Melbourne,1,Home Care Package
+215,HCP 1,VIC,North Melbourne,1,Home Care Package
+216,HCP 3,VIC,North Melbourne,3,Home Care Package
+217,HCP 2,VIC,North Melbourne,2,Home Care Package
+228,HCP 3,VIC,North Melbourne,3,Home Care Package
+231,HCP 3,VIC,Bayside,3,Home Care Package
+232,HCP 3,VIC,Bayside,3,Home Care Package
+233,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+234,HCP 1,VIC,North Melbourne,1,Home Care Package
+235,HCP 3,VIC,Geelong North,3,Home Care Package
+238,HCP 3,VIC,North Melbourne,3,Home Care Package
+244,HCP 4,VIC,North Melbourne,4,Home Care Package
+251,HCP 2,VIC,North Melbourne,2,Home Care Package
+252,HCP 3,VIC,Bayside,3,Home Care Package
+253,HCP 3,VIC,North Melbourne,3,Home Care Package
+261,HCP 3,VIC,Bayside,3,Home Care Package
+263,HCP 4,VIC,North Melbourne,4,Home Care Package
+264,HCP 2,VIC,South East Melbourne,2,Home Care Package
+272,HCP 3,VIC,North Melbourne,3,Home Care Package
+275,HCP 2,VIC,Bellarine,2,Home Care Package
+276,HCP 2,Vic,Geelong Central,2,Home Care Package
+282,HCP 4,VIC,North Melbourne,4,Home Care Package
+283,HCP 2,VIC,South East Melbourne,2,Home Care Package
+284,HCP 4,VIC,Bayside,4,Home Care Package
+287,HCP 2,VIC,North Melbourne,2,Home Care Package
+289,HCP 2,VIC,North Melbourne,2,Home Care Package
+290,HCP 3,VIC,North Melbourne,3,Home Care Package
+291,HCP 3,VIC,North Melbourne,3,Home Care Package
+293,HCP 3,VIC,Geelong Central,3,Home Care Package
+296,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+297,HCP 4,VIC,North Melbourne,4,Home Care Package
+298,HCP 2,VIC,Bayside,2,Home Care Package
+301,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+302,HCP 2,VIC,West,2,Home Care Package
+303,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+305,HCP 3,VIC,Geelong Central,3,Home Care Package
+306,HCP 2,VIC,Geelong North,2,Home Care Package
+307,HCP 2,VIC,West,2,Home Care Package
+308,HCP 3,VIC,South East Melbourne,3,Home Care Package
+309,HCP 4,VIC,South East Melbourne,4,Home Care Package
+311,HCP 3,VIC,Bellarine,3,Home Care Package
+312,HCP 2,VIC,Bellarine,2,Home Care Package
+313,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+314,HCP 3,VIC,South East Melbourne,3,Home Care Package
+315,HCP 3,Vic,West,3,Home Care Package
+316,HCP 4,VIC,North Melbourne,4,Home Care Package
+317,HCP 3,VIC,North Melbourne,3,Home Care Package
+318,HCP 2,VIC,North Melbourne,2,Home Care Package
+319,HCP 4,VIC,Geelong North,4,Home Care Package
+320,HCP 2,VIC,North Melbourne,2,Home Care Package
+324,HCP 2,VIC,South East Melbourne,2,Home Care Package
+325,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+326,HCP 4,VIC,North Melbourne,4,Home Care Package
+330,HCP 3,VIC,Bayside,3,Home Care Package
+334,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+336,HCP 3,VIC,North Melbourne,3,Home Care Package
+337,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+338,HCP 4,VIC,North Melbourne,4,Home Care Package
+340,HCP 3,VIC,South East Melbourne,3,Home Care Package
+342,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+345,HCP 3,VIC,North Melbourne,3,Home Care Package
+346,HCP 3,VIC,North Melbourne,3,Home Care Package
+352,HCP 3,ViC,Geelong North,3,Home Care Package
+353,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+354,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+357,HCP 3,VIC,West,3,Home Care Package
+360,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+365,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+368,HCP 3,VIC,North Melbourne,3,Home Care Package
+369,HCP 4,VIc,Bellarine,4,Home Care Package
+370,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+371,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+372,HCP 2,VIC,West,2,Home Care Package
+373,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+374,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+376,HCP 2,VIC,North Melbourne,2,Home Care Package
+379,HCP 2,VIC,North Melbourne,2,Home Care Package
+381,HCP 3,VIC,North Melbourne,3,Home Care Package
+383,HCP 4,VIC,North Melbourne,4,Home Care Package
+387,HCP 3,Vic,Geelong North,3,Home Care Package
+388,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+389,HCP 3,VIC,West,3,Home Care Package
+390,HCP 2,VIC,South East Melbourne,2,Home Care Package
+391,HCP 2,VIC,Geelong North,2,Home Care Package
+392,HCP 2,VIC,West,2,Home Care Package
+393,HCP 3,VIC,South East Melbourne,3,Home Care Package
+397,HCP 2,Vic,South East Melbourne,2,Home Care Package
+399,HCP 1,VIC,North Melbourne,1,Home Care Package
+403,HCP 3,VIC,North Melbourne,3,Home Care Package
+404,HCP 4,VIC,Geelong Central,4,Home Care Package
+405,HCP 3,VIC,North Melbourne,3,Home Care Package
+406,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+409,HCP 4,VIC,North Melbourne,4,Home Care Package
+410,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+413,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+415,HCP 2,Vic,Geelong North,2,Home Care Package
+416,HCP 3,VIC,North Melbourne,3,Home Care Package
+417,HCP 2,VIC,North Melbourne,2,Home Care Package
+425,HCP 1,Vic,Eastern Melbourne,1,Home Care Package
+426,HCP 4,VIC,North Melbourne,4,Home Care Package
+427,HCP 3,VIC,Bellarine,3,Home Care Package
+429,HCP 3,VIC,South East Melbourne,3,Home Care Package
+430,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+431,HCP 3,VIC,South East Melbourne,3,Home Care Package
+435,HCP 2,VIC,Bellarine,2,Home Care Package
+439,HCP 1,VIC,Eastern Melbourne,1,Home Care Package
+445,HCP 2,VIC,West,2,Home Care Package
+452,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+455,HCP 4,VIC,North Melbourne,4,Home Care Package
+457,HCP 3,VIC,Geelong North,3,Home Care Package
+458,HCP 4,VIC,North Melbourne,4,Home Care Package
+459,HCP 3,VIC,North Melbourne,3,Home Care Package
+461,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+467,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+468,HCP 2,Vic,Bellarine,2,Home Care Package
+469,HCP 2,VIC,Bellarine,2,Home Care Package
+470,HCP 3,VIC,North Melbourne,3,Home Care Package
+472,HCP 3,VIC,South East Melbourne,3,Home Care Package
+478,HCP 2,VIC,North Melbourne,2,Home Care Package
+479,HCP 3,VIC,North Melbourne,3,Home Care Package
+482,HCP 2,VIC,North Melbourne,2,Home Care Package
+486,HCP 2,VIC,Yarra Valley,2,Home Care Package
+487,HCP 4,VIC,Geelong North,4,Home Care Package
+489,HCP 3,VIC,Bellarine,3,Home Care Package
+491,HCP 2,VIC,North Melbourne,2,Home Care Package
+492,HCP 1,VIC,Eastern Melbourne,1,Home Care Package
+493,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+494,HCP 3,VIC,Geelong Central,3,Home Care Package
+495,HCP 3,VIC,Bellarine,3,Home Care Package
+496,HCP 3,Vic,Bellarine,3,Home Care Package
+497,HCP 2,VIC,North Melbourne,2,Home Care Package
+501,HCP 2,VIC,North Melbourne,2,Home Care Package
+502,HCP 2,VIC,North Melbourne,2,Home Care Package
+507,HCP 1,VIC,Ballarat,1,Home Care Package
+508,HCP 2,VIC,North Melbourne,2,Home Care Package
+512,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+515,HCP 2,VIC,Bellarine,2,Home Care Package
+518,HCP 2,VIC,North Melbourne,4,Home Care Package
+519,HCP 2,VIC,Geelong Central,2,Home Care Package
+521,HCP 3,VIC,North Melbourne,3,Home Care Package
+526,HCP 4,VIC,Geelong North,4,Home Care Package
+531,HCP 3,VIC,North Melbourne,3,Home Care Package
+532,HCP 1,VIC,Geelong North,1,Home Care Package
+533,HCP 4,VIC,Geelong Central,4,Home Care Package
+535,HCP 3,VIC,Geelong North,3,Home Care Package
+536,HCP 4,VIC,Geelong Central,4,Home Care Package
+537,HCP 3,VIC,North Melbourne,3,Home Care Package
+538,HCP 2,VIC,West,2,Home Care Package
+540,HCP 2,VIC,Yarra Valley,2,Home Care Package
+545,HCP 2,VIC,Bayside,2,Home Care Package
+549,HCP 2,VIC,North Melbourne,2,Home Care Package
+550,HCP 1,VIC,North Melbourne,1,Home Care Package
+553,HCP 3,VIC,Geelong North,3,Home Care Package
+555,HCP 1,VIC,Eastern Melbourne,1,Home Care Package
+558,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+559,HCP 1,VIC,Eastern Melbourne,1,Home Care Package
+561,HCP 3,VIC,Bellarine,3,Home Care Package
+564,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+567,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+568,HCP 3,VIC,South East Melbourne,3,Home Care Package
+571,HCP 3,VIC,North Melbourne,3,Home Care Package
+575,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+576,HCP 4,VIC,Bellarine,4,Home Care Package
+577,HCP 3,VIC,Bellarine,3,Home Care Package
+580,HCP 2,VIC,West,2,Home Care Package
+582,HCP 3,VIC,Yarra Valley,3,Home Care Package
+583,HCP 2,VIC,Bayside,2,Home Care Package
+584,HCP 3,VIC,North Melbourne,3,Home Care Package
+585,HCP 4,VIC,South East Melbourne,4,Home Care Package
+586,HCP 2,VIC,North Melbourne,2,Home Care Package
+588,HCP 3,VIC,North Melbourne,3,Home Care Package
+591,HCP 2,VIC,Bayside,2,Home Care Package
+601,HCP 2,VIC,Yarra Valley,2,Home Care Package
+602,HCP 4,VIC,Geelong North,4,Home Care Package
+603,HCP 2,VIC,Geelong North,2,Home Care Package
+607,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+611,HCP 3,VIC,Mornington Peninsula,3,Home Care Package
+612,HCP 2,VIC,South East Melbourne,2,Home Care Package
+613,HCP 2,VIC,South East Melbourne,2,Home Care Package
+614,HCP 1,VIC,Bellarine,1,Home Care Package
+618,HCP 4,VIC,Bellarine,4,Home Care Package
+619,HCP 3,VIC,South East Melbourne,3,Home Care Package
+620,HCP 2,VIC,West,2,Home Care Package
+659,HCP 2,VIC,North Melbourne,2,Home Care Package
+661,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+662,HCP 4,VIC,North Melbourne,4,Home Care Package
+667,HCP 3,VIC,North Melbourne,3,Home Care Package
+669,HCP 2,VIC,West,2,Home Care Package
+673,HCP 3,VIC,Bellarine,3,Home Care Package
+677,HCP 3,VIC,North Melbourne,3,Home Care Package
+678,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+681,HCP 3,QLD,Sunshine Coast - QLD,3,Home Care Package
+683,HCP 2,VIC,North Melbourne,2,Home Care Package
+686,HCP 3,VIC,Geelong North,3,Home Care Package
+688,HCP 2,VIC,Bayside,2,Home Care Package
+689,HCP 3,VIC,Geelong Central,3,Home Care Package
+692,HCP 2,VIC,Bellarine,2,Home Care Package
+695,HCP 2,VIC,North Melbourne,2,Home Care Package
+696,HCP 3,VIC,North Melbourne,3,Home Care Package
+737,HCP 3,VIC,Geelong Central,3,Home Care Package
+742,HCP 1,VIC,Geelong North,1,Home Care Package
+743,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+745,HCP 2,VIC,North Melbourne,2,Home Care Package
+746,HCP 3,VIC,North Melbourne,3,Home Care Package
+747,HCP 1,VIC,Bellarine,1,Home Care Package
+753,HCP 4,VIC,Bellarine,4,Home Care Package
+754,HCP 3,VIC,North Melbourne,3,Home Care Package
+757,HCP 2,VIC,North Melbourne,2,Home Care Package
+758,HCP 3,VIC,North Melbourne,3,Home Care Package
+759,HCP 2,VIC,North Melbourne,2,Home Care Package
+765,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+767,HCP 2,VIC,West,2,Home Care Package
+769,HCP 2,VIC,Bayside,2,Home Care Package
+770,HCP 2,VIC,North Melbourne,2,Home Care Package
+773,HCP 4,VIC,Bayside,4,Home Care Package
+774,HCP 2,VIC,Geelong North,2,Home Care Package
+777,HCP 3,VIC,North Melbourne,3,Home Care Package
+780,HCP 2,VIC,West,2,Home Care Package
+788,HCP 4,VIC,Geelong North,4,Home Care Package
+791,HCP 4,VIC,Mornington Peninsula,4,Home Care Package
+796,HCP 4,VIC,Ballarat,4,Home Care Package
+803,HCP 3,VIC,Yarra Valley,3,Home Care Package
+805,HCP 3,VIC,South East Melbourne,3,Home Care Package
+812,HCP 3,QLD,Brisbane Central,3,Home Care Package
+814,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+818,HCP 2,VIC,Geelong Central,2,Home Care Package
+819,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+822,HCP 2,QLD,Brisbane Central,2,Home Care Package
+824,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+832,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+837,HCP 4,VIC,North Melbourne,4,Home Care Package
+850,HCP 2,VIC,West,2,Home Care Package
+851,HCP 2,VIC,Mornington Peninsula,2,Home Care Package
+854,HCP 4,VIC,South East Melbourne,4,Home Care Package
+866,HCP 4,VIC,Geelong North,4,Home Care Package
+872,HCP 3,VIC,Bayside,3,Home Care Package
+876,HCP 4,VIC,North Melbourne,4,Home Care Package
+878,HCP 3,VIC,Shepparton,3,Home Care Package
+880,HCP 4,VIC,Bellarine,4,Home Care Package
+883,HCP 2,VIC,North Melbourne,2,Home Care Package
+884,HCP 2,VIC,Geelong Central,2,Home Care Package
+885,HCP 3,QLD,Gold Coast - QLD,3,Home Care Package
+891,HCP 3,VIC,North Melbourne,3,Home Care Package
+895,HCP 3,VIC,North Melbourne,3,Home Care Package
+897,HCP 3,VIC,North Melbourne,3,Home Care Package
+898,HCP 3,VIC,South East Melbourne,3,Home Care Package
+899,HCP 3,VIC,Geelong Central,3,Home Care Package
+908,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+909,HCP 3,VIC,Geelong Central,3,Home Care Package
+910,HCP 2,VIC,Bayside,2,Home Care Package
+913,HCP 4,QLD,Sunshine Coast - QLD,4,Home Care Package
+916,HCP 4,QLD,Brisbane South West,4,Home Care Package
+919,HCP 3,VIC,Geelong North,3,Home Care Package
+924,HCP 3,QLD,Brisbane North,3,Home Care Package
+926,HCP 3,VIC,Geelong Central,3,Home Care Package
+927,HCP 4,VIC,North Melbourne,4,Home Care Package
+946,HCP 4,VIC,,4,Home Care Package
+949,HCP 3,VIC,Ballarat,3,Home Care Package
+950,HCP 3,VIC,Bayside,3,Home Care Package
+954,HCP 3,VIC,Geelong Central,3,Home Care Package
+964,HCP 4,Vic,Ballarat,4,Home Care Package
+966,HCP 2,Vic,Eastern Melbourne,2,Home Care Package
+968,HCP 3,VIC,North Melbourne,3,Home Care Package
+969,HCP 4,VIC,Geelong Central,4,Home Care Package
+974,HCP 3,VIC,Geelong North,3,Home Care Package
+977,HCP 4,VIC,West,4,Home Care Package
+978,HCP 3,VIC,Yarra Valley,3,Home Care Package
+984,HCP 4,VIC,North Melbourne,4,Home Care Package
+986,HCP 2,VIC,Bellarine,2,Home Care Package
+987,HCP 2,VIC,Geelong North,2,Home Care Package
+997,HCP 2,VIC,North Melbourne,2,Home Care Package
+1003,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+1004,HCP 2,VIC,North Melbourne,2,Home Care Package
+1482,HCP 4,VIC,Bellarine,4,Home Care Package
+1483,HCP 4,VIC,Ballarat,4,Home Care Package
+1484,HCP 4,VIC,North Melbourne,4,Home Care Package
+1494,HCP 2,VIC,Bayside,2,Home Care Package
+1502,HCP 2,VIC,North Melbourne,2,Home Care Package
+1509,HCP 2,VIC,North Melbourne,2,Home Care Package
+1512,HCP 2,VIC,South East Melbourne,2,Home Care Package
+1513,HCP 2,VIC,South East Melbourne,2,Home Care Package
+1514,HCP 3,VIC,Ballarat,3,Home Care Package
+1515,HCP 3,VIC,South East Melbourne,3,Home Care Package
+1517,HCP 3,VIC,Bellarine,3,Home Care Package
+1518,HCP 3,VIC,Bellarine,3,Home Care Package
+1520,HCP 3,VIC,North Melbourne,3,Home Care Package
+1521,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+1527,HCP 2,VIC,Geelong North,2,Home Care Package
+1528,HCP 3,VIC,Geelong Central,3,Home Care Package
+1530,HCP 3,VIC,Geelong North,3,Home Care Package
+1531,HCP 4,VIC,South East Melbourne,4,Home Care Package
+1532,HCP 2,VIC,West,2,Home Care Package
+1535,HCP 2,VIC,West,2,Home Care Package
+1537,HCP 2,VIC,West,2,Home Care Package
+1538,HCP 3,VIC,North Melbourne,3,Home Care Package
+1540,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+1541,HCP 4,VIC,Ballarat,4,Home Care Package
+1542,HCP 2,VIC,Geelong Central,2,Home Care Package
+1543,HCP 4,VIC,South East Melbourne,4,Home Care Package
+1544,HCP 4,VIC,Bellarine,4,Home Care Package
+1545,HCP 3,VIC,Bayside,3,Home Care Package
+1552,HCP 4,VIC,Bayside,4,Home Care Package
+1557,HCP 4,NSW,NSW regional,4,Home Care Package
+1560,HCP 4,VIC,Geelong North,4,Home Care Package
+1562,HCP 2,VIC,Eastern Melbourne,2,Home Care Package
+1564,HCP 4,VIC,Bellarine,4,Home Care Package
+1568,HCP 3,VIC,Geelong North,3,Home Care Package
+1569,HCP 4,VIC,Eastern Melbourne,4,Home Care Package
+1571,HCP 4,VIC,Bayside,4,Home Care Package
+1572,HCP 3,VIC,Bayside,3,Home Care Package
+1574,HCP 4,VIC,North Melbourne,4,Home Care Package
+1575,HCP 4,VIC,Geelong North,4,Home Care Package
+1577,HCP 4,VIC,West,4,Home Care Package
+1581,HCP 3,VIC,Bellarine,3,Home Care Package
+1584,HCP 3,QLD,Gold Coast - QLD,3,Home Care Package
+1585,HCP 2,VIC,Ballarat,2,Home Care Package
+1589,HCP 2,VIC,Bellarine,2,Home Care Package
+1590,HCP 3,VIC,Geelong North,3,Home Care Package
+1592,HCP 3,VIC,Bayside,3,Home Care Package
+1595,HCP 2,VIC,West,2,Home Care Package
+1596,HCP 3,VIC,Bayside,3,Home Care Package
+1597,HCP 3,VIC,Bayside,3,Home Care Package
+1602,HCP 3,VIC,Bendigo,3,Home Care Package
+1604,HCP 4,VIC,Geelong Central,4,Home Care Package
+1605,HCP 3,VIC,Eastern Melbourne,3,Home Care Package
+1608,HCP 4,VIC,Bendigo,4,Home Care Package
+1616,HCP 4,VIC,Geelong North,4,Home Care Package
+1617,HCP 2,QLD,Yarraman - QLD,2,Home Care Package
+1618,HCP 2,QLD,Yarraman - QLD,2,Home Care Package
+1624,HCP 3,VIC,South East Melbourne,3,Home Care Package
+1625,HCP 2,QLD,Yarraman - QLD,2,Home Care Package
+1630,HCP 4,VIC,North East,4,Home Care Package
+1638,HCP 2,QLD,Yarraman - QLD,2,Home Care Package
+1639,HCP 4,QLD,Yarraman - QLD,4,Home Care Package
+1640,HCP 1,QLD,Yarraman - QLD,1,Home Care Package
+1641,HCP 2,QLD,Yarraman - QLD,2,Home Care Package
+1643,HCP 1,QLD,Yarraman - QLD,1,Home Care Package
+1644,HCP 1,QLD,Yarraman - QLD,1,Home Care Package
+1647,HCP 4,QLD,Gold Coast - QLD,4,Home Care Package
+1651,HCP 1,QLD,Brisbane East,1,Home Care Package
+1653,HCP 2,VIC,Bellarine,2,Home Care Package
+1656,HCP 4,VIC,South East Melbourne,4,Home Care Package
+1660,HCP 3,VIC,South East Melbourne,3,Home Care Package
+1663,HCP 3,VIC,North East,3,Home Care Package
+1665,HCP 4,VIC,South East Melbourne,4,Home Care Package
+1672,HCP 3,VIC,North East,3,Home Care Package
+1680,HCP 3,VIC,Ballarat,3,Home Care Package
+1681,HCP 2,VIC,Inner East,2,Home Care Package
+1688,HCP 3,VIC,,0,
+1691,HCP 3,VIC,Geelong Central,3,Home Care Package

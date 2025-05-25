@@ -1,0 +1,4 @@
+dash~=3.0           # any 3.x but <4
+plotly~=6.1         # any 6.1.x but <6.2
+pandas~=2.2         # any 2.2.x but <2.3
+gunicorn~=22.0      # any 22.0.x but <22.1
